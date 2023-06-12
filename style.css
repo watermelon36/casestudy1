@@ -1,0 +1,44 @@
+#headband{
+    width: 120px;
+    height:120px;
+}
+#cup{
+    width: 120px;
+    height:120px;
+}
+#finger-ling{
+    width: 120px;
+    height:120px;
+}
+#hair-extension{
+    width: 120px;
+    height:120px;
+}
+#marker{
+    width: 120px;
+    height:120px;
+}
+#mirror{
+    width: 120px;
+    height:120px;
+}
+#pencil{
+    width: 120px;
+    height:120px;
+}
+#sunglass{
+    width: 120px;
+    height:120px;
+}
+#tablet{
+    width: 120px;
+    height:120px;
+}
+#unicorn-box{
+    width: 120px;
+    height:120px;
+}
+
+body{
+    background-image: linear-gradient(rgb(255, 131, 197), rgb(255, 172, 78),rgb(244, 255, 85));
+}
